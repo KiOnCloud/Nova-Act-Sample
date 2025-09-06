@@ -22,6 +22,7 @@ chmod +x setup_mac.sh
 setup_windows.bat
 ```
 ## Add Nova Act API Key
+Go to: [Nova](https://nova.amazon.com/act)
 
 ### 1. macOS / Linux
 
